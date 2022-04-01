@@ -8,7 +8,7 @@ My dwm config is heavily based on the gruvbox color scheme
 all of the dwm related things are 
 features from one of my friend's dwm build will be seen here
 
-link to his dwm build : https://github.com/thecountrox/dotfiles#dotfiles
+link to his dracula dwm build : https://github.com/thecountrox/dotfiles#dotfiles
 
 ![my dwm build showcase](https://cdn.discordapp.com/attachments/788430037488893984/959360327961673728/2022-04-01_13-25.png)
 
