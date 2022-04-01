@@ -41,3 +41,6 @@ if u have a sensible aur helper it would work flawlessly
 
 # Palette Used
 ![my dwm build showcase](https://media.discordapp.net/attachments/742268848274800693/959425438466310194/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67.png?width=1025&height=382)
+
+# Dark mode 
+![my dwm build showcase](https://media.discordapp.net/attachments/742268848274800693/959426608865878066/687474703a2f2f692e696d6775722e636f6d2f476b496c38466e2e706e67.png?width=905&height=484)
