@@ -36,3 +36,8 @@ This is now done by the install_dotfiles.sh script in this repo (requires git in
 The script will not install the Dependencies for you (for now...)
 however the install_dependencies.sh will install dependencies (or atleast try to)
 if u have a sensible aur helper it would work flawlessly
+
+
+
+# Palette Used
+(https://camo.githubusercontent.com/410b3ab80570bcd5b470a08d84f93caa5b4962ccd994ebceeb3d1f78364c2120/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67)
