@@ -40,4 +40,4 @@ if u have a sensible aur helper it would work flawlessly
 
 
 # Palette Used
-!(https://cdn.discordapp.com/attachments/742268848274800693/959424575991603220/unknown.png)
+![my dwm build showcase](https://cdn.discordapp.com/attachments/742268848274800693/959424575991603220/unknown.png)
