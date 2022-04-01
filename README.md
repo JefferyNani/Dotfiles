@@ -5,10 +5,10 @@ My dotfiles for anyone to use
 This dotfiles contains my dwm , dwmblock , dmenu and st configs.
 
 My dwm config is heavily based on the gruvbox color scheme 
-all of the dwm related things are patched on TOP of distrotube's dwm build
-so features from his build will be seen here
+all of the dwm related things are 
+features from one of my friend's dwm build will be seen here
 
-link to his dwm build : https://gitlab.com/dwt1/dwm-distrotube
+link to his dwm build : https://github.com/thecountrox/dotfiles#dotfiles
 
 ![my dwm build showcase](https://cdn.discordapp.com/attachments/788430037488893984/959360327961673728/2022-04-01_13-25.png)
 
